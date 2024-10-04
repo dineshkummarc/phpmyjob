@@ -1,3 +1,6 @@
+# phpmyjobs
+formerly Recruitment Database Management System
+
 ---
 title: Recruitment Database Management System
 author: Anmol, Anurag, Bharathwaj, Ishan, Thahir
