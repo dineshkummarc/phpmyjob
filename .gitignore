@@ -1,4 +1,2 @@
-*.gdoc
-*.gsheet
-*.ini
 .DS_Store
+**/.DS_Store
