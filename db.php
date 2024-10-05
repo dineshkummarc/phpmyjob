@@ -4,7 +4,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "git_repos_jobportal";
+$dbname = "phpmyjob";
 
 //Create New Database Connection
 $conn = new mysqli($servername, $username, $password, $dbname);
